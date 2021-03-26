@@ -26,7 +26,7 @@ import io.vertx.ext.web.RoutingContext;
 import io.vertx.ext.web.handler.JWTAuthHandler;
 
 /**
- * @author <a href="http://pmlopes@gmail.com">Paulo Lopes</a>
+ * @author <a href="mailto:pmlopes@gmail.com">Paulo Lopes</a>
  */
 public class JWTAuthHandlerImpl extends HTTPAuthorizationHandler<JWTAuth> implements JWTAuthHandler {
 
