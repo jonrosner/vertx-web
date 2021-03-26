@@ -5,7 +5,7 @@ Vert.x OpenAPI extends Vert.x Web to support https://www.openapis.org/[OpenAPI 3
 
 Vert.x OpenAPI can:
 
-* Parse and validate the your OpenAPI 3 contract
+* Parse and validate your OpenAPI 3 contract
 * Generate a router according to your spec, with correct path & methods
 * Provide request parsing and validation based on your contract using https://vertx.io/docs/vertx-web-validation/java/[Vert.x Web Validation]
 * Mount required security handlers
